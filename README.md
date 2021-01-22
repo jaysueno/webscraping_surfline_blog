@@ -1,6 +1,6 @@
-# Words By Surfline
-## Created an app to scrape the news articles from Surfline.com's news page
-#### Written by Jay Sueno
+# Surfline Keyword Analysis
+## Project to scrape Surfline news articles, conduct analysis, and visualize
+#### Written by [Jay Sueno](https://www.linkedin.com/in/jaysueno)
 
 In this project I wanted to see what kinds of words Surfline uses in thier news and blog posts. Moreover, is there a way to visualize the findings and provide some insights about how they are positioning the brand in SEO? 
 
@@ -78,7 +78,7 @@ Note that the average sentiment of each article is <b>5.67</b>. Meaning that the
 
 ![image](images/sentiment.jpg)
 
-### How About Using A Bubble Chart To View Word Use?
+### How About Using A Bubble Chart To View Word Count?
 
 ![iamge](images/bubble.jpg)
 
@@ -88,9 +88,10 @@ Note that the average word count of each article was 452 words.
 ![image](images/wordcount.jpg)
 
 ## Conclusion
-This was a fun project to showcase some of my skills. If I had more proprietary data, I could compare our SEO, engagement, and news article writing strategy with some statistical methods. here are some of my findings and suggestions for further exploration:
-* The most popular words are fairly obvious: "surf and "swell". Can we compare our SEO strategy and see how well we rank with actually using those keywords/phrases we want to rank on by raising the word count?
-* Our average sentiment per article was 5.67. Can we test if the tone of the article being more positive, will increase the engagment and user experience? Is there a correlation?
-* Surfline's reach is global, could we do an SEO and keyword scrape of our compeitors or sites where we want to pull users from. Then we can formulate an SEO strategy to attract those customers in different countries where we want to expand?
+This was a fun project to showcase some of my skills. If I had more proprietary data, I could compare our SEO, engagement, and news article keyword strategy with some statistical analysis - see if there are correlations or regressions. Here are some of my findings and suggestions for further exploration:
+* The most popular words are fairly obvious: "surf and "swell". How do we rank with our current SEO keywords, and how often do we use them in our posts? Is there a relationship to ranking and wordcount?
+* Our average sentiment per article was 5.67. Can we test if a more positive tone will increase the engagment and user experience? Is there a correlation?
+* Surfline's reach is global, could we do an SEO and keyword scrape of our compeitors or sites where we want to pull users from. Then we can formulate an SEO strategy to attract those customers in different spaces where we want to expand?
+* Can we use Machine Learning to better predict the user engagemetn with the keyword strategy?
 
 This project is to showcase some of my capabilities and show you how I think. Please message me with any questions and connect with me on [LinkedIn](https://www.linkedin.com/in/jaysueno).
